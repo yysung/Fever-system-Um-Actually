@@ -1,0 +1,516 @@
+("0\tNikolaj Coster-Waldau -LRB- -LSB- neɡ̊olaɪ̯ kʰʌsd̥ɐ ˈʋald̥ɑʊ̯ -RSB- ; born 27 July 1970 -RRB- is a Danish actor , producer and screenwriter .\n1\tHe graduated from Danish National School of Theatre in Copenhagen in 1993 .\tDanish National School of Theatre\tDanish National School of Theatre and Contemporary Dance\tCopenhagen\tCopenhagen\n2\tCoster-Waldau 's breakthrough performance in Denmark was his role in the film Nightwatch -LRB- 1994 -RRB- .\tNightwatch\tNightwatch (1994 film)\n3\tSince then he has appeared in numerous films in his native Scandinavia and Europe in general , including Headhunters -LRB- 2011 -RRB- and A Thousand Times Good Night -LRB- 2013 -RRB- .\tHeadhunters\tHeadhunters (film)\tA Thousand Times Good Night\tA Thousand Times Good Night\n4\t\n5\t\n6\tIn the United States , his debut film role was in the war film Black Hawk Down -LRB- 2001 -RRB- , playing Medal of Honor recipient Gary Gordon .\tBlack Hawk Down\tBlack Hawk Down (film)\tGary Gordon\tGary Gordon\n7\tHe then played Detective John Amsterdam in the short-lived Fox television series New Amsterdam -LRB- 2008 -RRB- , as well as appearing as Frank Pike in the 2009 Fox television film Virtuality , originally intended as a pilot .\tFox television\tFox Broadcasting Company\tNew Amsterdam\tNew Amsterdam (TV series)\tVirtuality\tVirtuality (TV series)\n8\tHe became widely known to a broad audience for his current role as Ser Jaime Lannister , in the HBO series Game of Thrones .\tJaime Lannister\tJaime Lannister\tHBO\tHBO\tGame of Thrones\tGame of Thrones\n9\tIn 2017 , he became one of the highest paid actors on television and earned # 2 million per episode of Game of Thrones .\tGame of Thrones\tGame of Thrones\thighest paid actors on television\tList of highest paid American television stars\n10\t",)
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/retrieval/fever_doc_db.py(20)get_doc_lines()
+-> return result if result is None else result[0]
+(Pdb) ("0\tThe Fox Broadcasting Company -LRB- often shortened to Fox and stylized as FOX -RRB- is an American English language commercial broadcast television network that is owned by the Fox Entertainment Group subsidiary of 21st Century Fox .\tEnglish\tEnglish language\tFox Entertainment Group\tFox Entertainment Group\t21st Century Fox\t21st Century Fox\tAmerican\tUnited States\tEnglish language\tEnglish language\tcommercial\tcommercial broadcasting\tbroadcast\tterrestrial television\ttelevision network\ttelevision network\n1\tThe network is headquartered at the 20th Century Fox studio lot on Pico Boulevard in the Century City section of Los Angeles , with additional major offices and production facilities at the Fox Television Center in nearby West Los Angeles and the Fox Broadcasting Center in the Yorkville neighborhood of Manhattan , New York City .\tPico Boulevard\tPico Boulevard\tCentury City\tCentury City, Los Angeles\tLos Angeles\tLos Angeles\tFox Television Center\tFox Television Center\tFox Broadcasting Center\tWNYW#DuMont origins\t20th Century Fox\t20th Century Fox\n2\tIt is the third largest major television network in the world based on total revenues , assets , and international coverage .\ttelevision network\ttelevision network\n3\t\n4\t\n5\tLaunched on October 9 , 1986 as a competitor to the Big Three television networks -LRB- ABC , NBC and CBS -RRB- , Fox went on to become the most successful attempt at a fourth television network .\ttelevision network\ttelevision network\tBig Three television networks\tBig Three television networks\tABC\tAmerican Broadcasting Company\tNBC\tNBC\tCBS\tCBS\tfourth television network\tfourth television network\n6\tIt was the highest-rated broadcast network in the 18 -- 49 demographic from 2004 to 2012 , and earned the position as the most-watched American television network in total viewership during the 2007 -- 08 season .\tAmerican\tUnited States\tbroadcast\tterrestrial television\ttelevision network\ttelevision network\trated\tNielsen ratings\n7\t\n8\t\n9\tFox and its affiliated companies operate many entertainment channels in international markets , although these do not necessarily air the same programming as the U.S. network .\n10\tMost viewers in Canada have access to at least one U.S.-based Fox affiliate , either over-the-air or through a pay television provider , although Fox 's National Football League telecasts and most of its prime time programming are subject to simultaneous substitution regulations for cable and satellite providers imposed by the Canadian Radio-television and Telecommunications Commission -LRB- CRTC -RRB- to protect rights held by domestically based networks .\tNational Football League telecasts\tFox NFL\tprime time\tprime time\tsimultaneous substitution\tsimultaneous substitution\tcable\tcable television\tsatellite\tdirect broadcast satellite\tCanadian Radio-television and Telecommunications Commission\tCanadian Radio-television and Telecommunications Commission\n11\t\n12\t\n13\tThe network is named after sister company 20th Century Fox , and indirectly for producer William Fox , who founded one of the movie studio 's predecessors , Fox Film .\t20th Century Fox\t20th Century Fox\tWilliam Fox\tWilliam Fox (producer)\tFox Film\t20th Century Fox#Fox Film\n14\tFox is a member of the North American Broadcasters Association and the National Association of Broadcasters .\tAmerican\tUnited States\tNorth American Broadcasters Association\tNorth American Broadcasters Association\tNational Association of Broadcasters\tNational Association of Broadcasters\n15\t",)
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/retrieval/fever_doc_db.py(20)get_doc_lines()
+-> return result if result is None else result[0]
+(Pdb) ("0\tRoman Bernard Atwood -LRB- born May 28 , 1983 -RRB- is an American YouTube personality , comedian , vlogger and pranker .\tYouTube personality\tYouTube personality\tcomedian\tcomedian\tvlogger\tvlogger\tpranker\tpranker\n1\tHe is best known for his vlogs , where he posts updates about his life on a daily basis .\n2\tHis vlogging channel , `` RomanAtwoodVlogs '' , has a total of 3.3 billion views and 11.9 million subscribers .\n3\tHe also has another YouTube channel called `` RomanAtwood '' , where he posts pranks .\n4\tHis prank videos have gained over 1.4 billion views and 10.3 million subscribers .\n5\tBoth of these channels are in the top 100 most subscribed on YouTube , and he became the second YouTuber after Germán Garmendia to receive two Diamond Play Buttons for his two channels .\tGermán Garmendia\tGermán Garmendia\n6\t",)
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/retrieval/fever_doc_db.py(20)get_doc_lines()
+-> return result if result is None else result[0]
+(Pdb) ("0\tRoman Bernard Atwood -LRB- born May 28 , 1983 -RRB- is an American YouTube personality , comedian , vlogger and pranker .\tYouTube personality\tYouTube personality\tcomedian\tcomedian\tvlogger\tvlogger\tpranker\tpranker\n1\tHe is best known for his vlogs , where he posts updates about his life on a daily basis .\n2\tHis vlogging channel , `` RomanAtwoodVlogs '' , has a total of 3.3 billion views and 11.9 million subscribers .\n3\tHe also has another YouTube channel called `` RomanAtwood '' , where he posts pranks .\n4\tHis prank videos have gained over 1.4 billion views and 10.3 million subscribers .\n5\tBoth of these channels are in the top 100 most subscribed on YouTube , and he became the second YouTuber after Germán Garmendia to receive two Diamond Play Buttons for his two channels .\tGermán Garmendia\tGermán Garmendia\n6\t",)
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/retrieval/fever_doc_db.py(20)get_doc_lines()
+-> return result if result is None else result[0]
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) --Return--
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/retrieval/fever_doc_db.py(20)get_doc_lines()->'0\tRoman Ber...armendia\n6\t'
+-> return result if result is None else result[0]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(61)get_doc_line()
+-> if line > -1:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(62)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) --Return--
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(62)get_doc_line()->'He also has ...osts pranks .'
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) ('0\tThe history of art is the history of any activity or product made by humans in a visual form for aesthetical or communicative purposes , expressing ideas , emotions or , in general , a worldview .\taesthetical\taesthetics\tworldview\tworldview\n1\tOver time visual art has been classified in diverse ways , from the medieval distinction between liberal arts and mechanical arts , to the modern distinction between fine arts and applied arts , or to the many contemporary definitions , which define art as a manifestation of human creativity .\tvisual art\tvisual art\thas been classified in diverse ways\tart#Forms, genres, media and styles\tliberal arts\tliberal arts\tmechanical arts\tArtes Mechanicae\tapplied arts\tapplied arts\n2\tThe subsequent expansion of the list of principal arts in the 20th century reached to nine : architecture , dance , sculpture , music , painting , poetry -LRB- described broadly as a form of literature with aesthetic purpose or function , which also includes the distinct genres of theatre and narrative -RRB- , film , photography and graphic arts .\tarchitecture\tarchitecture\tdance\tdance\tsculpture\tsculpture\tmusic\tmusic\tpainting\tpainting\tpoetry\tpoetry\tliterature\tliterature\ttheatre\ttheatre\tnarrative\tnarrative\tfilm\tfilm\tphotography\tphotography\tgraphic arts\tgraphic arts\n3\tIn addition to the old forms of artistic expression such as fashion and gastronomy , new modes of expression are being considered as arts such as video , computer art , performance , advertising , animation , television and videogames .\tfashion\tfashion\tgastronomy\tgastronomy\tvideo\tvideo\tcomputer art\tDigital art\tperformance\tPerformance art\tadvertising\tadvertising\tanimation\tanimation\ttelevision\ttelevision\tvideogames\tvideogames\n4\t\n5\t\n6\tThe history of art is a multidisciplinary branch of the arts and sciences , seeking an objective examination of art throughout time , classifying cultures , establishing periodizations , and observing the distinctive and influential characteristics of art .\tmultidisciplinary branch of the arts and sciences\tmultidisciplinary science\n7\tThe study of the history of art was initially developed during the Renaissance , with its limited scope being the artistic production of Western civilization .\tstudy of the history of art\tart history\tRenaissance\tRenaissance\tWestern civilization\tWestern civilization\tcivilization\tcivilization\n8\tHowever , as time has passed , it has imposed a broader view of artistic history , seeking a comprehensive overview of all the civilizations and analysis of their artistic production in terms of their own cultural values -LRB- cultural relativism -RRB- , and not just western art history .\tcultural relativism\tcultural relativism\twestern art history\twestern art history\n9\t\n10\t\n11\tToday , art enjoys a wide network of study , dissemination and preservation of all the artistic legacy of mankind throughout history .\n12\tThe 20th century has seen the proliferation of institutions , foundations , art museums and galleries , in both the public and private sectors , dedicated to the analysis and cataloging of works of art as well as exhibitions aimed at a mainstream audience .\tart museums\tart museums\tgalleries\tart gallery\tworks of art\twork of art\n13\tThe rise of media has been crucial in improving the study and dissemination of art .\tmedia\tmedia (communication)\n14\tInternational events and exhibitions like the Whitney Biennial and biennales of Venice and São Paulo or the Documenta of Kassel have helped the development of new styles and trends .\tWhitney Biennial\tWhitney Biennial\tVenice\tVenice Biennale\tSão Paulo\tSão Paulo Art Biennial\tDocumenta\tDocumenta\tKassel\tKassel\n15\tPrizes such as the Turner of the Tate Gallery , the Wolf Prize in Arts , the Pritzker Prize of architecture , the Pulitzer of photography and the Oscar of cinema also promote the best creative work on an international level .\tarchitecture\tarchitecture\tphotography\tphotography\tTurner\tTurner Prize\tTate Gallery\tTate Gallery\tWolf Prize in Arts\tWolf Prize in Arts\tPritzker Prize\tPritzker Architecture Prize\tPulitzer\tPulitzer Prize\tOscar\tAcademy Award\n16\tInstitutions like UNESCO , with the establishment of the World Heritage Site lists , also help the conservation of the major monuments of the planet .\tUNESCO\tUNESCO\tWorld Heritage Site\tWorld Heritage Site\n17\t',)
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/retrieval/fever_doc_db.py(20)get_doc_lines()
+-> return result if result is None else result[0]
+(Pdb) ("0\tAdrienne Eliza Houghton -LRB- née Bailon ; born October 24 , 1983 -RRB- is an American singer-songwriter , recording artist , actress , dancer and television personality .\tnée\tName at birth\tsinger-songwriter\tsinger-songwriter\n1\tAdrienne Bailon first became publicly known when she rose to fame as one of the founding members and singer of both 3LW -LRB- 1999 -- 2007 -RRB- and Disney 's The Cheetah Girls -LRB- 2003 -- 2008 -RRB- .\t3LW\t3LW\tThe Cheetah Girls\tThe Cheetah Girls (group)\n2\t\n3\t\n4\tBailon recorded a debut solo album which was later shelved .\n5\tSince then , Bailon has stated that she plans to record a Spanish-language solo album .\n6\t\n7\t\n8\tAside from her work in 3LW and The Cheetah Girls , Bailon went on to develop her own acting career with roles in The Cheetah Girls films , Coach Carter and the MTV film All You 've Got .\t3LW\t3LW\tThe Cheetah Girls\tThe Cheetah Girls (group)\tCoach Carter\tCoach Carter\tMTV\tMTV\n9\tAside from her work in film , she has also guest starred in numerous television series including the Disney Channel series That 's So Raven and The Suite Life of Zack & Cody .\tDisney Channel\tDisney Channel\tThe Suite Life of Zack & Cody\tThe Suite Life of Zack & Cody\n10\tBailon has established a solo music career , contributing two solo tracks , including `` What If '' , to The Cheetah Girls : One World soundtrack as well as the Confessions of a Shopaholic soundtrack , and numerous other guest musical ventures .\tThe Cheetah Girls\tThe Cheetah Girls (group)\tConfessions of a Shopaholic\tConfessions of a Shopaholic (film)\n11\t\n12\t\n13\tBailon co-stars alongside television personality , model and actress Julissa Bermudez in their own reality series , Empire Girls : Julissa and Adrienne which airs on the Style Network .\tJulissa Bermudez\tJulissa Bermudez\treality series\tReality television\tStyle Network\tStyle (TV network)\n14\tAdrienne met Julissa on the set of the 2006 film All You 've Got .\n15\t\n16\t\n17\tCurrently , Bailon is one of the hosts of syndicated talk show The Real along with former fellow Disney Channel star Tamera Mowry , Jeannie Mai , and Loni Love , which premiered on July 15 , 2013 .\tDisney Channel\tDisney Channel\tThe Real\tThe Real (TV series)\tTamera Mowry\tTamera Mowry\tJeannie Mai\tJeannie Mai\tLoni Love\tLoni Love\n18\t\n19\t\n20\tBailon 's career , spanning over 16 years with both 3LW and The Cheetah Girls , has helped her sell a combined 5.6 million recording albums worldwide .\t3LW\t3LW\tThe Cheetah Girls\tThe Cheetah Girls (group)\n21\t",)
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/retrieval/fever_doc_db.py(20)get_doc_lines()
+-> return result if result is None else result[0]
+(Pdb) ("0\tIn Limbo may refer to :\tLimbo\tLimbo\n1\t\n2\t\n3\tIn Limbo -LRB- novel -RRB- , by Christopher Evans\tLimbo\tLimbo\n4\t\n5\tIn Limbo -LRB- album -RRB- by Pete Max\tLimbo\tLimbo\n6\t\n7\tIn Limbo -LRB- EP -RRB- by Lydia Lunch\tLimbo\tLimbo\n8\t\n9\tIn Limbo : The Lost Puracane Sessions , an album by Puracane\tPuracane\tPuracane\tLimbo\tLimbo\n10\t\n11\t`` In Limbo '' , a song by Genesis from the album From Genesis to Revelation\tFrom Genesis to Revelation\tFrom Genesis to Revelation\tLimbo\tLimbo\n12\t\n13\t`` In Limbo '' , a song by Radiohead from the album Kid A\tKid A\tKid A\tLimbo\tLimbo\n14\t\n15\tDevelopment hell , also called `` in limbo '' , a period during which a film or other project is trapped in development\tDevelopment hell\tDevelopment hell\n16\t\n17\tan undetermined stay in Limbo , a theoretical place between life and death\tLimbo\tLimbo\n18\t",)
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/retrieval/fever_doc_db.py(20)get_doc_lines()
+-> return result if result is None else result[0]
+(Pdb) ("0\tHomeland is an American spy thriller television series developed by Howard Gordon and Alex Gansa based on the Israeli series Prisoners of War -LRB- Original title חטופים Hatufim , literally `` Abductees '' -RRB- , which was created by Gideon Raff .\tPrisoners of War\tPrisoners of War (TV series)\tGideon Raff\tGideon Raff\tHoward Gordon\tHoward Gordon\tAlex Gansa\tAlex Gansa\tspy thriller\tespionage thriller\n1\t\n2\t\n3\tThe series stars Claire Danes as Carrie Mathison , a Central Intelligence Agency officer with bipolar disorder , and Damian Lewis as Nicholas Brody , a U.S. Marine Corps Scout Sniper .\tClaire Danes\tClaire Danes\tDamian Lewis\tDamian Lewis\tCarrie Mathison\tCarrie Mathison\tCentral Intelligence Agency\tCentral Intelligence Agency\tbipolar disorder\tbipolar disorder\tNicholas Brody\tNicholas Brody\tU.S. Marine Corps Scout Sniper\tUnited States Marine Corps Scout Sniper\n4\tMathison had come to believe that Brody , who was held captive by al-Qaeda as a prisoner of war , was `` turned '' by the enemy and poses a threat to the United States .\tal-Qaeda\tal-Qaeda\tprisoner of war\tprisoner of war\n5\t\n6\t\n7\tThe series is broadcast in the U.S. on the cable channel Showtime , and is produced by Fox 21 Television Studios -LRB- formerly Fox 21 -RRB- .\tFox 21 Television Studios\tFox 21 Television Studios\tShowtime\tShowtime (TV network)\tcable channel\tcable channel\n8\tIt premiered on October 2 , 2011 .\n9\tThe first episode was made available online , more than two weeks before the television broadcast , with viewers having to complete game tasks to gain access .\n10\tOn October 22 , 2013 , Showtime renewed Homeland for a fourth season , which premiered on October 5 , 2014 .\tShowtime\tShowtime (TV network)\n11\tOn November 10 , 2014 , Showtime renewed the series for a 12-episode fifth season that premiered on October 4 , 2015 .\tShowtime\tShowtime (TV network)\n12\tOn December 9 , 2015 , the series was renewed for a sixth season .\n13\tThe sixth season debuted on January 15 , 2017 .\n14\tThe series has also been renewed for a seventh and eighth season ; the eighth is planned to be the series ' final season by the creators .\n15\t\n16\t\n17\tThe series has received generally positive reviews , and has won several awards , including the 2012 Primetime Emmy Award for Outstanding Drama Series , and the 2011 and 2012 Golden Globe Award for Best Television Series -- Drama , as well as the Primetime Emmy Award for Outstanding Lead Actor in a Drama Series and Lead Actress in a Drama Series for Damian Lewis and Claire Danes , respectively .\tClaire Danes\tClaire Danes\tDamian Lewis\tDamian Lewis\tPrimetime Emmy Award for Outstanding Drama Series\tPrimetime Emmy Award for Outstanding Drama Series\tPrimetime Emmy Award for Outstanding Lead Actor in a Drama Series\tPrimetime Emmy Award for Outstanding Lead Actor in a Drama Series\tLead Actress in a Drama Series\tPrimetime Emmy Award for Outstanding Lead Actress in a Drama Series\n18\t",)
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/retrieval/fever_doc_db.py(20)get_doc_lines()
+-> return result if result is None else result[0]
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) --KeyboardInterrupt--
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) ("0\tNikolaj Coster-Waldau -LRB- -LSB- neɡ̊olaɪ̯ kʰʌsd̥ɐ ˈʋald̥ɑʊ̯ -RSB- ; born 27 July 1970 -RRB- is a Danish actor , producer and screenwriter .\n1\tHe graduated from Danish National School of Theatre in Copenhagen in 1993 .\tDanish National School of Theatre\tDanish National School of Theatre and Contemporary Dance\tCopenhagen\tCopenhagen\n2\tCoster-Waldau 's breakthrough performance in Denmark was his role in the film Nightwatch -LRB- 1994 -RRB- .\tNightwatch\tNightwatch (1994 film)\n3\tSince then he has appeared in numerous films in his native Scandinavia and Europe in general , including Headhunters -LRB- 2011 -RRB- and A Thousand Times Good Night -LRB- 2013 -RRB- .\tHeadhunters\tHeadhunters (film)\tA Thousand Times Good Night\tA Thousand Times Good Night\n4\t\n5\t\n6\tIn the United States , his debut film role was in the war film Black Hawk Down -LRB- 2001 -RRB- , playing Medal of Honor recipient Gary Gordon .\tBlack Hawk Down\tBlack Hawk Down (film)\tGary Gordon\tGary Gordon\n7\tHe then played Detective John Amsterdam in the short-lived Fox television series New Amsterdam -LRB- 2008 -RRB- , as well as appearing as Frank Pike in the 2009 Fox television film Virtuality , originally intended as a pilot .\tFox television\tFox Broadcasting Company\tNew Amsterdam\tNew Amsterdam (TV series)\tVirtuality\tVirtuality (TV series)\n8\tHe became widely known to a broad audience for his current role as Ser Jaime Lannister , in the HBO series Game of Thrones .\tJaime Lannister\tJaime Lannister\tHBO\tHBO\tGame of Thrones\tGame of Thrones\n9\tIn 2017 , he became one of the highest paid actors on television and earned # 2 million per episode of Game of Thrones .\tGame of Thrones\tGame of Thrones\thighest paid actors on television\tList of highest paid American television stars\n10\t",)
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/retrieval/fever_doc_db.py(20)get_doc_lines()
+-> return result if result is None else result[0]
+(Pdb) ("0\tThe Fox Broadcasting Company -LRB- often shortened to Fox and stylized as FOX -RRB- is an American English language commercial broadcast television network that is owned by the Fox Entertainment Group subsidiary of 21st Century Fox .\tEnglish\tEnglish language\tFox Entertainment Group\tFox Entertainment Group\t21st Century Fox\t21st Century Fox\tAmerican\tUnited States\tEnglish language\tEnglish language\tcommercial\tcommercial broadcasting\tbroadcast\tterrestrial television\ttelevision network\ttelevision network\n1\tThe network is headquartered at the 20th Century Fox studio lot on Pico Boulevard in the Century City section of Los Angeles , with additional major offices and production facilities at the Fox Television Center in nearby West Los Angeles and the Fox Broadcasting Center in the Yorkville neighborhood of Manhattan , New York City .\tPico Boulevard\tPico Boulevard\tCentury City\tCentury City, Los Angeles\tLos Angeles\tLos Angeles\tFox Television Center\tFox Television Center\tFox Broadcasting Center\tWNYW#DuMont origins\t20th Century Fox\t20th Century Fox\n2\tIt is the third largest major television network in the world based on total revenues , assets , and international coverage .\ttelevision network\ttelevision network\n3\t\n4\t\n5\tLaunched on October 9 , 1986 as a competitor to the Big Three television networks -LRB- ABC , NBC and CBS -RRB- , Fox went on to become the most successful attempt at a fourth television network .\ttelevision network\ttelevision network\tBig Three television networks\tBig Three television networks\tABC\tAmerican Broadcasting Company\tNBC\tNBC\tCBS\tCBS\tfourth television network\tfourth television network\n6\tIt was the highest-rated broadcast network in the 18 -- 49 demographic from 2004 to 2012 , and earned the position as the most-watched American television network in total viewership during the 2007 -- 08 season .\tAmerican\tUnited States\tbroadcast\tterrestrial television\ttelevision network\ttelevision network\trated\tNielsen ratings\n7\t\n8\t\n9\tFox and its affiliated companies operate many entertainment channels in international markets , although these do not necessarily air the same programming as the U.S. network .\n10\tMost viewers in Canada have access to at least one U.S.-based Fox affiliate , either over-the-air or through a pay television provider , although Fox 's National Football League telecasts and most of its prime time programming are subject to simultaneous substitution regulations for cable and satellite providers imposed by the Canadian Radio-television and Telecommunications Commission -LRB- CRTC -RRB- to protect rights held by domestically based networks .\tNational Football League telecasts\tFox NFL\tprime time\tprime time\tsimultaneous substitution\tsimultaneous substitution\tcable\tcable television\tsatellite\tdirect broadcast satellite\tCanadian Radio-television and Telecommunications Commission\tCanadian Radio-television and Telecommunications Commission\n11\t\n12\t\n13\tThe network is named after sister company 20th Century Fox , and indirectly for producer William Fox , who founded one of the movie studio 's predecessors , Fox Film .\t20th Century Fox\t20th Century Fox\tWilliam Fox\tWilliam Fox (producer)\tFox Film\t20th Century Fox#Fox Film\n14\tFox is a member of the North American Broadcasters Association and the National Association of Broadcasters .\tAmerican\tUnited States\tNorth American Broadcasters Association\tNorth American Broadcasters Association\tNational Association of Broadcasters\tNational Association of Broadcasters\n15\t",)
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/retrieval/fever_doc_db.py(20)get_doc_lines()
+-> return result if result is None else result[0]
+(Pdb) ("0\tRoman Bernard Atwood -LRB- born May 28 , 1983 -RRB- is an American YouTube personality , comedian , vlogger and pranker .\tYouTube personality\tYouTube personality\tcomedian\tcomedian\tvlogger\tvlogger\tpranker\tpranker\n1\tHe is best known for his vlogs , where he posts updates about his life on a daily basis .\n2\tHis vlogging channel , `` RomanAtwoodVlogs '' , has a total of 3.3 billion views and 11.9 million subscribers .\n3\tHe also has another YouTube channel called `` RomanAtwood '' , where he posts pranks .\n4\tHis prank videos have gained over 1.4 billion views and 10.3 million subscribers .\n5\tBoth of these channels are in the top 100 most subscribed on YouTube , and he became the second YouTuber after Germán Garmendia to receive two Diamond Play Buttons for his two channels .\tGermán Garmendia\tGermán Garmendia\n6\t",)
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/retrieval/fever_doc_db.py(20)get_doc_lines()
+-> return result if result is None else result[0]
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) "0\tNikolaj Coster-Waldau -LRB- -LSB- neɡ̊olaɪ̯ kʰʌsd̥ɐ ˈʋald̥ɑʊ̯ -RSB- ; born 27 July 1970 -RRB- is a Danish actor , producer and screenwriter .\n1\tHe graduated from Danish National School of Theatre in Copenhagen in 1993 .\tDanish National School of Theatre\tDanish National School of Theatre and Contemporary Dance\tCopenhagen\tCopenhagen\n2\tCoster-Waldau 's breakthrough performance in Denmark was his role in the film Nightwatch -LRB- 1994 -RRB- .\tNightwatch\tNightwatch (1994 film)\n3\tSince then he has appeared in numerous films in his native Scandinavia and Europe in general , including Headhunters -LRB- 2011 -RRB- and A Thousand Times Good Night -LRB- 2013 -RRB- .\tHeadhunters\tHeadhunters (film)\tA Thousand Times Good Night\tA Thousand Times Good Night\n4\t\n5\t\n6\tIn the United States , his debut film role was in the war film Black Hawk Down -LRB- 2001 -RRB- , playing Medal of Honor recipient Gary Gordon .\tBlack Hawk Down\tBlack Hawk Down (film)\tGary Gordon\tGary Gordon\n7\tHe then played Detective John Amsterdam in the short-lived Fox television series New Amsterdam -LRB- 2008 -RRB- , as well as appearing as Frank Pike in the 2009 Fox television film Virtuality , originally intended as a pilot .\tFox television\tFox Broadcasting Company\tNew Amsterdam\tNew Amsterdam (TV series)\tVirtuality\tVirtuality (TV series)\n8\tHe became widely known to a broad audience for his current role as Ser Jaime Lannister , in the HBO series Game of Thrones .\tJaime Lannister\tJaime Lannister\tHBO\tHBO\tGame of Thrones\tGame of Thrones\n9\tIn 2017 , he became one of the highest paid actors on television and earned # 2 million per episode of Game of Thrones .\tGame of Thrones\tGame of Thrones\thighest paid actors on television\tList of highest paid American television stars\n10\t"
+(Pdb) ['0\tNikolaj Coster-Waldau -LRB- -LSB- neɡ̊olaɪ̯ kʰʌsd̥ɐ ˈʋald̥ɑʊ̯ -RSB- ; born 27 July 1970 -RRB- is a Danish actor , producer and screenwriter .', '1\tHe graduated from Danish National School of Theatre in Copenhagen in 1993 .\tDanish National School of Theatre\tDanish National School of Theatre and Contemporary Dance\tCopenhagen\tCopenhagen', "2\tCoster-Waldau 's breakthrough performance in Denmark was his role in the film Nightwatch -LRB- 1994 -RRB- .\tNightwatch\tNightwatch (1994 film)", '3\tSince then he has appeared in numerous films in his native Scandinavia and Europe in general , including Headhunters -LRB- 2011 -RRB- and A Thousand Times Good Night -LRB- 2013 -RRB- .\tHeadhunters\tHeadhunters (film)\tA Thousand Times Good Night\tA Thousand Times Good Night', '4\t', '5\t', '6\tIn the United States , his debut film role was in the war film Black Hawk Down -LRB- 2001 -RRB- , playing Medal of Honor recipient Gary Gordon .\tBlack Hawk Down\tBlack Hawk Down (film)\tGary Gordon\tGary Gordon', '7\tHe then played Detective John Amsterdam in the short-lived Fox television series New Amsterdam -LRB- 2008 -RRB- , as well as appearing as Frank Pike in the 2009 Fox television film Virtuality , originally intended as a pilot .\tFox television\tFox Broadcasting Company\tNew Amsterdam\tNew Amsterdam (TV series)\tVirtuality\tVirtuality (TV series)', '8\tHe became widely known to a broad audience for his current role as Ser Jaime Lannister , in the HBO series Game of Thrones .\tJaime Lannister\tJaime Lannister\tHBO\tHBO\tGame of Thrones\tGame of Thrones', '9\tIn 2017 , he became one of the highest paid actors on television and earned # 2 million per episode of Game of Thrones .\tGame of Thrones\tGame of Thrones\thighest paid actors on television\tList of highest paid American television stars', '10\t']
+(Pdb) '7\tHe then played Detective John Amsterdam in the short-lived Fox television series New Amsterdam -LRB- 2008 -RRB- , as well as appearing as Frank Pike in the 2009 Fox television film Virtuality , originally intended as a pilot .\tFox television\tFox Broadcasting Company\tNew Amsterdam\tNew Amsterdam (TV series)\tVirtuality\tVirtuality (TV series)'
+(Pdb) ['7', 'He then played Detective John Amsterdam in the short-lived Fox television series New Amsterdam -LRB- 2008 -RRB- , as well as appearing as Frank Pike in the 2009 Fox television film Virtuality , originally intended as a pilot .', 'Fox television', 'Fox Broadcasting Company', 'New Amsterdam', 'New Amsterdam (TV series)', 'Virtuality', 'Virtuality (TV series)']
+(Pdb) 'He then played Detective John Amsterdam in the short-lived Fox television series New Amsterdam -LRB- 2008 -RRB- , as well as appearing as Frank Pike in the 2009 Fox television film Virtuality , originally intended as a pilot .'
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) --Return--
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()->'He is best k...daily basis .'
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) --Return--
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()->'Her debut so...rds in 1985 .'
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)<listcomp>()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) --Return--
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)<listcomp>()->['Her debut so...rds in 1985 .']
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> premise = " ".join(lines)
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(87)read()
+-> if len(premise.strip()) == 0:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(90)read()
+-> hypothesis = instance["claim"]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(91)read()
+-> label = instance["label_text"]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(92)read()
+-> instances.append(self.text_to_instance(premise, hypothesis, label))
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(76)read()
+-> for instance in tqdm.tqdm(ds.data):
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) 'SUPPORTS'
+(Pdb) {"Her debut solo album She 's So Unusual -LRB- 1983 -RRB- was the first debut female album to chart four top-five hits on the Billboard Hot 100 -- `` Girls Just Want to Have Fun '' , `` Time After Time '' , `` She Bop '' , and `` All Through the Night '' -- and earned Lauper the Best New Artist award at the 27th Grammy Awards in 1985 ."}
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) "0\tMichael Giacchino -LRB- -LSB- dʒakˈkiːno -RSB- ; born October 10 , 1967 -RRB- is an American composer of music for films , television and video games .\tcomposer\tcomposer\n1\tHe composed the scores to the television series Lost , Alias and Fringe , the video ' game series Medal of Honor and Call of Duty and many films such as The Incredibles , Ratatouille , Up , Mission : Impossible - Ghost Protocol , Dawn of the Planet of the Apes , Jurassic World , Inside Out , Star Trek Beyond , Doctor Strange , Rogue One and Spider-Man : Homecoming .\tLost\tLost (TV series)\tAlias\tAlias (TV series)\tFringe\tFringe (TV series)\tMedal of Honor\tMedal of Honor (series)\tCall of Duty\tCall of Duty\tThe Incredibles\tThe Incredibles\tRatatouille\tRatatouille (film)\tUp\tUp (2009 film)\tDawn of the Planet of the Apes\tDawn of the Planet of the Apes\tJurassic World\tJurassic World\tInside Out\tInside Out (2015 film)\tStar Trek Beyond\tStar Trek Beyond\tDoctor Strange\tDoctor Strange (film)\tRogue One\tRogue One\n2\t\n3\t\n4\tGiacchino has received an Emmy Award and multiple Grammy Awards , as well as a Golden Globe Award and an Academy Award for his work on Up .\tUp\tUp (2009 film)\tEmmy Award\tEmmy Award\tGolden Globe Award\tGolden Globe Award\tAcademy Award\tAcademy Award\n5\t"
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) 1
+(Pdb) 1
+(Pdb) 1
+(Pdb) "1\tHe composed the scores to the television series Lost , Alias and Fringe , the video ' game series Medal of Honor and Call of Duty and many films such as The Incredibles , Ratatouille , Up , Mission : Impossible - Ghost Protocol , Dawn of the Planet of the Apes , Jurassic World , Inside Out , Star Trek Beyond , Doctor Strange , Rogue One and Spider-Man : Homecoming .\tLost\tLost (TV series)\tAlias\tAlias (TV series)\tFringe\tFringe (TV series)\tMedal of Honor\tMedal of Honor (series)\tCall of Duty\tCall of Duty\tThe Incredibles\tThe Incredibles\tRatatouille\tRatatouille (film)\tUp\tUp (2009 film)\tDawn of the Planet of the Apes\tDawn of the Planet of the Apes\tJurassic World\tJurassic World\tInside Out\tInside Out (2015 film)\tStar Trek Beyond\tStar Trek Beyond\tDoctor Strange\tDoctor Strange (film)\tRogue One\tRogue One"
+(Pdb) "1\tHe composed the scores to the television series Lost , Alias and Fringe , the video ' game series Medal of Honor and Call of Duty and many films such as The Incredibles , Ratatouille , Up , Mission : Impossible - Ghost Protocol , Dawn of the Planet of the Apes , Jurassic World , Inside Out , Star Trek Beyond , Doctor Strange , Rogue One and Spider-Man : Homecoming .\tLost\tLost (TV series)\tAlias\tAlias (TV series)\tFringe\tFringe (TV series)\tMedal of Honor\tMedal of Honor (series)\tCall of Duty\tCall of Duty\tThe Incredibles\tThe Incredibles\tRatatouille\tRatatouille (film)\tUp\tUp (2009 film)\tDawn of the Planet of the Apes\tDawn of the Planet of the Apes\tJurassic World\tJurassic World\tInside Out\tInside Out (2015 film)\tStar Trek Beyond\tStar Trek Beyond\tDoctor Strange\tDoctor Strange (film)\tRogue One\tRogue One"
+(Pdb) ['0\tMichael Giacchino -LRB- -LSB- dʒakˈkiːno -RSB- ; born October 10 , 1967 -RRB- is an American composer of music for films , television and video games .\tcomposer\tcomposer', "1\tHe composed the scores to the television series Lost , Alias and Fringe , the video ' game series Medal of Honor and Call of Duty and many films such as The Incredibles , Ratatouille , Up , Mission : Impossible - Ghost Protocol , Dawn of the Planet of the Apes , Jurassic World , Inside Out , Star Trek Beyond , Doctor Strange , Rogue One and Spider-Man : Homecoming .\tLost\tLost (TV series)\tAlias\tAlias (TV series)\tFringe\tFringe (TV series)\tMedal of Honor\tMedal of Honor (series)\tCall of Duty\tCall of Duty\tThe Incredibles\tThe Incredibles\tRatatouille\tRatatouille (film)\tUp\tUp (2009 film)\tDawn of the Planet of the Apes\tDawn of the Planet of the Apes\tJurassic World\tJurassic World\tInside Out\tInside Out (2015 film)\tStar Trek Beyond\tStar Trek Beyond\tDoctor Strange\tDoctor Strange (film)\tRogue One\tRogue One", '2\t', '3\t', '4\tGiacchino has received an Emmy Award and multiple Grammy Awards , as well as a Golden Globe Award and an Academy Award for his work on Up .\tUp\tUp (2009 film)\tEmmy Award\tEmmy Award\tGolden Globe Award\tGolden Globe Award\tAcademy Award\tAcademy Award', '5\t']
+(Pdb) "He composed the scores to the television series Lost , Alias and Fringe , the video ' game series Medal of Honor and Call of Duty and many films such as The Incredibles , Ratatouille , Up , Mission : Impossible - Ghost Protocol , Dawn of the Planet of the Apes , Jurassic World , Inside Out , Star Trek Beyond , Doctor Strange , Rogue One and Spider-Man : Homecoming ."
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) *** NameError: name 'cc' is not defined
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) --Return--
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()->'Roddick was ...that period .'
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)<listcomp>()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) --Return--
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)<listcomp>()->['Roddick was ...that period .']
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> premise = " ".join(lines)
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(87)read()
+-> if len(premise.strip()) == 0:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(90)read()
+-> hypothesis = instance["claim"]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(91)read()
+-> label = instance["label_text"]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(92)read()
+-> instances.append(self.text_to_instance(premise, hypothesis, label))
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(76)read()
+-> for instance in tqdm.tqdm(ds.data):
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(77)read()
+-> if instance is None:
+(Pdb) *** NameError: name 'nn' is not defined
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(80)read()
+-> if not self._sentence_level:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) --Return--
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()->'As the Vietn...omote peace .'
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)<listcomp>()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) --Return--
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)<listcomp>()->['As the Vietn...omote peace .']
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> premise = " ".join(lines)
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(87)read()
+-> if len(premise.strip()) == 0:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(90)read()
+-> hypothesis = instance["claim"]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(91)read()
+-> label = instance["label_text"]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(92)read()
+-> instances.append(self.text_to_instance(premise, hypothesis, label))
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(76)read()
+-> for instance in tqdm.tqdm(ds.data):
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(77)read()
+-> if instance is None:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(80)read()
+-> if not self._sentence_level:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) --Return--
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()->'Tupac Amaru ... , and poet .'
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)<listcomp>()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) --Return--
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()->'Tupac Amaru ... , and poet .'
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)<listcomp>()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) --Return--
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)<listcomp>()->['Tupac Amaru ... , and poet .', 'Tupac Amaru ... , and poet .']
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> premise = " ".join(lines)
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(87)read()
+-> if len(premise.strip()) == 0:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(90)read()
+-> hypothesis = instance["claim"]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(91)read()
+-> label = instance["label_text"]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(92)read()
+-> instances.append(self.text_to_instance(premise, hypothesis, label))
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(76)read()
+-> for instance in tqdm.tqdm(ds.data):
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(77)read()
+-> if instance is None:
+(Pdb) *** NameError: name 'nn' is not defined
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(80)read()
+-> if not self._sentence_level:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(86)read()
+-> premise = " ".join(lines)
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(88)read()
+-> if len(premise.strip()) == 0:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(91)read()
+-> hypothesis = instance["claim"]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(92)read()
+-> label = instance["label_text"]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(93)read()
+-> instances.append(self.text_to_instance(premise, hypothesis, label))
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(76)read()
+-> for instance in tqdm.tqdm(ds.data):
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(77)read()
+-> if instance is None:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(80)read()
+-> if not self._sentence_level:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(86)read()
+-> premise = " ".join(lines)
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(88)read()
+-> if len(premise.strip()) == 0:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(91)read()
+-> hypothesis = instance["claim"]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(92)read()
+-> label = instance["label_text"]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(93)read()
+-> instances.append(self.text_to_instance(premise, hypothesis, label))
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(76)read()
+-> for instance in tqdm.tqdm(ds.data):
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(77)read()
+-> if instance is None:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(80)read()
+-> if not self._sentence_level:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(86)read()
+-> premise = " ".join(lines)
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(88)read()
+-> if len(premise.strip()) == 0:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(91)read()
+-> hypothesis = instance["claim"]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(92)read()
+-> label = instance["label_text"]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(93)read()
+-> instances.append(self.text_to_instance(premise, hypothesis, label))
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(76)read()
+-> for instance in tqdm.tqdm(ds.data):
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(77)read()
+-> if instance is None:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(80)read()
+-> if not self._sentence_level:
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) (Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) *** NameError: name 'self' is not defined
+(Pdb) *** NameError: name 'self' is not defined
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(63)get_doc_line()
+-> return lines.split("\n")[line].split("\t")[1]
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(85)read()
+-> lines = set([self.get_doc_line(d[0],d[1]) for d in instance['evidence']])
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/rte/parikh/reader.py(84)read()
+-> pdb.set_trace()
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(89)train_model()
+-> vocab = Vocabulary.from_params(params.pop("vocabulary", {}),
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) *** NameError: name 'vocab' is not defined
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) <class 'allennlp.data.vocabulary.Vocabulary'>
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(89)train_model()
+-> vocab = Vocabulary.from_params(params.pop("vocabulary", {}),
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(89)train_model()
+-> vocab = Vocabulary.from_params(params.pop("vocabulary", {}),
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(89)train_model()
+-> vocab = Vocabulary.from_params(params.pop("vocabulary", {}),
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(89)train_model()
+-> vocab = Vocabulary.from_params(params.pop("vocabulary", {}),
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(93)train_model()
+-> file = open('./token_to_index.pkl', 'wb')
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(94)train_model()
+-> pickle.dump(vocab._token_to_index["tokens"],file)
+(Pdb) NameError: name 'pickle' is not defined
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(94)train_model()
+-> pickle.dump(vocab._token_to_index["tokens"],file)
+(Pdb) --Return--
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(94)train_model()->None
+-> pickle.dump(vocab._token_to_index["tokens"],file)
+(Pdb) NameError: name 'pickle' is not defined
+> /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(156)<module>()
+-> train_model(db,params,args.cuda_device,args.logdir,args.filtering)
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(90)train_model()
+-> vocab = Vocabulary.from_params(params.pop("vocabulary", {}),
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(94)train_model()
+-> file = open('./token_to_index.pkl', 'wb')
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(95)train_model()
+-> pickle.dump(vocab._token_to_index["tokens"],file)
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(96)train_model()
+-> file1 = open('./index_to_token.pkl', 'wb')
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(97)train_model()
+-> pickle.dump(vocab._index_to_token["tokens"],file1)
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(100)train_model()
+-> vocab.save_to_files(os.path.join(serialization_dir, "vocabulary"))
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/allennlp/data/instance.py(49)index_fields()
+-> file = open('./token_to_index.pkl', 'wb')
+(Pdb) > /home/yooyeonsung/fever-new/fever-naacl-2018/src/scripts/rte/da/train_da.py(92)train_model()
+-> vocab.save_to_files(os.path.join(serialization_dir, "vocabulary"))
+(Pdb) *** AttributeError: 'Vocabulary' object has no attribute 'max_vocab_size'
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) *** Newest frame
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) *** NameError: name 'model' is not defined
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) *** SyntaxError: invalid syntax
+(Pdb) 77336
+(Pdb) 
