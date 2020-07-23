@@ -1,6 +1,6 @@
 # Fever_system
 * Applying new dataset (Um, Actually) to FEVER system
-* This code is based on an original XLM code ported from https://github.com/sheffieldnlp/fever-naacl-2018
+* This code is based on an original code ported from https://github.com/sheffieldnlp/fever-naacl-2018
 
 # Prerequisites
 * allennlp==0.2.3
